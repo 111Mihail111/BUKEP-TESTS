@@ -1,0 +1,289 @@
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - Failed to load resource: the server responded with a status of 404 (Not Found)
+http://iis-2:803/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+Ожидание:
+Исправить ошибку/ошибки в консоли
+
+Шаги:
+0. Перейти по адресу: http://iis-2:803/DPO/DpoKont.aspx
+1. Нажать на: Войти
+
+Результат:
+http://iis-2:803/Admin/Login.aspx?ReturnUrl=%2fDPO%2fDpoKont.aspx - [DOM] Input elements should have autocomplete attributes (suggested: "curren
